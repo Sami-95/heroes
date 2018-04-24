@@ -4,3 +4,5 @@
 * Megamente
 * Flash Reverso
 * Pinguino
+* Duende verde
+* Doctor Doom
