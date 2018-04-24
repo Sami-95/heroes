@@ -7,3 +7,5 @@
 * Mujer Maravilla
 * Spiderman
 * Capitan America
+* Iron Man
+* Linterna verde
